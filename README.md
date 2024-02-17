@@ -11,18 +11,15 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
-
-
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"
-            width="40" height="40" /> </a>
+            src="https://camo.githubusercontent.com/fd1f17544b6b7e8afcdc18b04451d24e24d28177df277da63cee4960442197ef/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667"
+            alt="java" width="40" height="40" /> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
             height="40" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a>
-
     <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"
             alt="jira" width="40" height="40" /> </a>
@@ -88,7 +85,6 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="40" height="40" /> </a>
-
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
