@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Priya</h1>
 <hr />
-<p align="left">I am a Senior Frontednd Developer and I am working as a Lead Analyst in CGI.</p>
+<p align="left">I am a Senior Frontend Developer and I am working as a Lead Analyst in CGI.</p>
 
 <h3 align="left">Currently I'm working with:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
