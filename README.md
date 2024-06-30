@@ -100,6 +100,8 @@
     <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /></a>
 </p>
+
+
 Github Stats
 
 ![Priya github stats](https://github-readme-stats.vercel.app/api?username=priya1793)
