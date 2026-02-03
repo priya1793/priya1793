@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Priya</h1>
 <hr />
-<p align="left">I am a Full Stack Developer, adept in working in both front-end and back-end development processes. Highly skilled in programming design, development, and implementation of functional specifications. Currently working as a Lead Analyst at <a href="https://www.wipro.com/en">Wipro</a></p>
+<p align="left">I am a Full Stack Developer, adept in working in both front-end and back-end development processes. Highly skilled in programming design, development, and implementation of functional specifications. Currently working as a Technical Lead at <a href="https://www.wipro.com/en">Wipro</a></p>
 
 <h3 align="left">Currently I'm working with:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
